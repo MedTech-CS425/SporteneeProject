@@ -38,7 +38,7 @@ const Stories = () => {
         {
             id: 0, 
             name:'User *',
-            image: require('../../storage/images/Blank.png'),
+            image: require('../../storage/images/Biva.jpg'),
         },
         {
             id: 0, 
@@ -48,7 +48,7 @@ const Stories = () => {
         {
             id: 0, 
             name:'User *',
-            image: require('../../storage/images/Blank.png'),
+            image: require('../../storage/images/Biva.jpg'),
         },
         {
             id: 0, 
@@ -58,7 +58,7 @@ const Stories = () => {
         {
             id: 0, 
             name:'User *',
-            image: require('../../storage/images/Blank.png'),
+            image: require('../../storage/images/Nat.jpg'),
         },
         {
             id: 0, 

@@ -6,6 +6,7 @@ import Feather from "react-native-vector-icons/Feather";
 import { ScrollView } from 'react-native-web';
 import Stories from '../screenComponents/Stories';
 import Post from "../screenComponents/Post";
+import SearchBox from "../screenComponents/SearchBox"
 
 
 const Home = () => {
@@ -25,7 +26,8 @@ const Home = () => {
                 <Feather name='navigation' style={{fontSize: 24, color: 'white'}}/>
         </View>
         <ScrollView>
-            <Stories/>
+        <SearchBox/>
+            {/* <Stories/> */}
             <Post/>
         </ScrollView>
     </View>
